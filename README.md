@@ -1,6 +1,6 @@
 # RBQM Portfolio Project – GlucoBalance‑50
 ### Risk-Based Quality Management | Centralized Monitoring | QTL/KRI Simulation  
-**Author:** [Your Name]  
+**Author:** [Valentia Mahlaela]  
 **Role Target:** Centralized Monitoring Analyst (CMA) / RBQM Analyst / CluePoints Programmer  
 **Tools:** Excel, Threshold Logic, Data Quality Checks, KRI/QTL Simulation, Structured Specifications  
 
