@@ -27,6 +27,9 @@ The simulation includes:
 | `dashboard.md` | Dashboard visualization and signal logic |
 | `weekly_monitoring.md` | Week‑of monitoring snapshot with signal interpretation |
 | `actions_log.md` | Action, mitigation, and escalation record |
+![Risk Map](assets/![Risk Map](assets/Screenshot%202026-03-18%20191212.png)
+![description](assets/Screenshot%202026-03-18%20191315.png)
+![KRI Dashboard](assets//Screenshot%202026-03-18%20191257.png)
 
 Images supporting the dashboard and visual analysis are in `/assets/`.
 
