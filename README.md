@@ -19,7 +19,7 @@ The simulation includes:
 - Interpretation of signals  
 - Specification‑like documentation
 
-## 📁 Repository Contents
+## Repository Contents
 | File | Description |
 |------|-------------|
 | `riskmap.md` | Full study risk map with risk → controls mapping |
@@ -31,4 +31,10 @@ The simulation includes:
 Images supporting the dashboard and visual analysis are in `/assets/`.
 
 ---
+## Portfolio Sections
+- [Risk Map](riskmap.md)
+- [KRI & QTL Table](KRI_QTL.md)
+- [Dashboard](dashboard.md)
+- [Weekly Monitoring](weekly_monitoring.md)
+- [Actions Log](actions_log.md)
 
