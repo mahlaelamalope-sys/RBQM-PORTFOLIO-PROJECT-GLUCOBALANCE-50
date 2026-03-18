@@ -34,7 +34,6 @@ Images supporting the dashboard and visual analysis are in `/assets/`.
 ## Portfolio Sections
 - [Risk Map](riskmap.md)
 - [KRI & QTL Table](KRI_QTL.md)
-- [Dashboard](dashboard.md)
 - [Weekly Monitoring](weekly_monitoring.md)
 - [Actions Log](actions_log.md)
 
